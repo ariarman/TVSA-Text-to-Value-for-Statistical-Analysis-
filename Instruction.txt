@@ -1,0 +1,24 @@
+to use wampserver updates, extract the file "update_wampserver_win7 or later" to the following directory:
+C:\wamp
+
+to run the ptogram:
+click "WAMPSERVER-server Offline" in the taskbar then click "Localhost".
+
+the processing result is in the following directory
+C:\wamp\www\Process Result
+
+*********************************************************************************************************
+
+to use easyphp updates in windows xp,
+extract rar file "update_easyphp_xp" to the following directory:
+C:\Program Files\EasyPHP-5.3.5.0
+
+to use easyphp updates in windows 7 or later,
+extract rar file "update_easyphp_xp" to the following directory:
+C:\Program Files (x86)\EasyPHP-5.3.5.0
+
+to run the ptogram:
+click "EasyPHP" in the taskbar then click "Web Server".
+
+to see the processing result:
+click "EasyPHP" in the taskbar then click "Explore".
